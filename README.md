@@ -274,9 +274,19 @@ This project is provided as-is for educational and demonstration purposes.
 ## Support
 
 For issues or questions:
-- Cloudflare Workers: https://developers.cloudflare.com/workers/
-- Workers AI: https://developers.cloudflare.com/workers-ai/
-- Durable Objects: https://developers.cloudflare.com/durable-objects/
+- **Troubleshooting**: See [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
+- **Cloudflare Workers**: https://developers.cloudflare.com/workers/
+- **Workers AI**: https://developers.cloudflare.com/workers-ai/
+- **Durable Objects**: https://developers.cloudflare.com/durable-objects/
+- **Wrangler**: https://developers.cloudflare.com/workers/wrangler/
+
+## Project Info
+
+- **Built with**: Cloudflare Workers, Workers AI (Llama 3.3 70B), Durable Objects
+- **Development Assistant**: Claude 3.5 Sonnet (Anthropic)
+- **Development Date**: December 24, 2025
+- **Language**: TypeScript
+- **UI Style**: British English
 
 ---
 
